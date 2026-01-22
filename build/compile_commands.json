@@ -1,0 +1,170 @@
+[
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/surface_mesh.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/surface_mesh.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/surface_mesh.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/surface_mesh.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/curvature.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/curvature.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/curvature.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/curvature.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/decimation.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/decimation.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/decimation.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/decimation.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/differential_geometry.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/differential_geometry.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/differential_geometry.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/differential_geometry.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/distance_point_triangle.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/distance_point_triangle.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/distance_point_triangle.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/distance_point_triangle.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/fairing.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/fairing.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/fairing.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/fairing.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/features.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/features.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/features.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/features.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/geodesics.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/geodesics.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/geodesics.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/geodesics.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/hole_filling.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/hole_filling.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/hole_filling.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/hole_filling.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/laplace.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/laplace.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/laplace.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/laplace.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/normals.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/normals.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/normals.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/normals.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/numerics.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/numerics.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/numerics.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/numerics.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/parameterization.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/parameterization.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/parameterization.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/parameterization.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/remeshing.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/remeshing.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/remeshing.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/remeshing.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/shapes.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/shapes.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/shapes.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/shapes.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/smoothing.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/smoothing.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/smoothing.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/smoothing.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/subdivision.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/subdivision.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/subdivision.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/subdivision.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/triangulation.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/triangulation.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/triangulation.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/triangulation.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/algorithms/utilities.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/utilities.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/algorithms/utilities.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/algorithms/utilities.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/io.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/io.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/io.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/io.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/read_obj.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_obj.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_obj.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/read_obj.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/read_off.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_off.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_off.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/read_off.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/read_pmp.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_pmp.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_pmp.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/read_pmp.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/read_stl.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_stl.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/read_stl.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/read_stl.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/write_obj.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_obj.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_obj.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/write_obj.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/write_off.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_off.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_off.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/write_off.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/write_pmp.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_pmp.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_pmp.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/write_pmp.cpp.o"
+},
+{
+  "directory": "/home/user/Projects/pmp-wasm/build/pmp-library/src/pmp",
+  "command": "/usr/bin/c++ -Dpmp_EXPORTS -I/home/user/Projects/pmp-wasm/pmp-library/src -I/home/user/Projects/pmp-wasm/pmp-library/src/pmp/.. -I/home/user/Projects/pmp-wasm/pmp-library/external/eigen-3.4.0  -pedantic -Wall -Wextra -Wshadow -Werror -Wno-deprecated-copy -Wno-int-in-bool-context -O3 -DNDEBUG -std=gnu++20 -fPIC -fopenmp -o CMakeFiles/pmp.dir/io/write_stl.cpp.o -c /home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_stl.cpp",
+  "file": "/home/user/Projects/pmp-wasm/pmp-library/src/pmp/io/write_stl.cpp",
+  "output": "pmp-library/src/pmp/CMakeFiles/pmp.dir/io/write_stl.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/remesh-js.dir/main.cpp.o" -o remesh-js  -Wl,-rpath,/home/user/Projects/pmp-wasm/build/pmp-library pmp-library/libpmp.so.3.0.0 /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
